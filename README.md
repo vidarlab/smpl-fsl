@@ -6,7 +6,7 @@ Official code for the **FGVC 2025** workshop paper:
 <img width="1224" alt="image" src="https://github.com/user-attachments/assets/5caba300-cc74-40e3-860e-75afe271bd19" />
 
 
-This repository contains the official implementation of **Simple Matching Parts Learner (SMPL)** — our proposed method for fine-grained few-shot classification using part-level feature matching. We currently provide support for the Hotels-8K dataset, with additional datasets to be released in the future.
+This repository contains the official implementation of **Simple Matching Parts Learner (SMPL)**, our proposed method for fine-grained few-shot classification using part-level feature matching. We currently provide code to replicate our experiments on the Hotels-8K dataset, with additional datasets to be released in the future.
 
 ---
 
