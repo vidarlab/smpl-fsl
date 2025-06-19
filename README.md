@@ -15,9 +15,9 @@ This repository contains the official implementation of **Simple Matching Parts 
 ### 🔹 Precomputed Part Features
 We provide precomputed part features for the Hotels-8K dataset using either DINO or DINOv2 as the Part Encoder:
 
-➡️ [Dino]([https://your-part-features-link.com](https://tuprd-my.sharepoint.com/:u:/g/personal/tul03156_temple_edu/EW4w48jCEqNMtcs4WW_7fToBCOKKkkEh1IHBZDzlU1i7Pg?e=7jxeSo))
+➡️ [Dino]([https://tuprd-my.sharepoint.com/:u:/g/personal/tul03156_temple_edu/EW4w48jCEqNMtcs4WW_7fToBCOKKkkEh1IHBZDzlU1i7Pg?e=7jxeSo])
 
-➡️ [DinoV2]([https://your-part-features-link.com](https://tuprd-my.sharepoint.com/:u:/g/personal/tul03156_temple_edu/ERm3y4p0rjNFnCRvCNoj_3YByQO99wW_D35BFVqvRN9l4g?e=ATEac8))
+➡️ [DinoV2]([https://tuprd-my.sharepoint.com/:u:/g/personal/tul03156_temple_edu/ERm3y4p0rjNFnCRvCNoj_3YByQO99wW_D35BFVqvRN9l4g?e=ATEac8])
 
 Extract to:
 
