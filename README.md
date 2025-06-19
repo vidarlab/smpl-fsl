@@ -15,9 +15,9 @@ This repository contains the official implementation of **Simple Matching Parts 
 ### 🔹 Precomputed Part Features
 We provide precomputed part features for the Hotels-8K dataset using either DINO or DINOv2 as the Part Encoder:
 
-➡️ [Dino](https://your-part-features-link.com)
+➡️ [Dino]([https://your-part-features-link.com](https://tuprd-my.sharepoint.com/:u:/g/personal/tul03156_temple_edu/EW4w48jCEqNMtcs4WW_7fToBCOKKkkEh1IHBZDzlU1i7Pg?e=7jxeSo))
 
-➡️ [DinoV2](https://your-part-features-link.com)
+➡️ [DinoV2]([https://your-part-features-link.com](https://tuprd-my.sharepoint.com/:u:/g/personal/tul03156_temple_edu/ERm3y4p0rjNFnCRvCNoj_3YByQO99wW_D35BFVqvRN9l4g?e=ATEac8))
 
 Extract to:
 
@@ -40,7 +40,7 @@ This .npy file is a serialized Python dictionary containing part features for th
 
 You can download the original images and segmentation maps (generated using GroundedSAM) here:
 
-➡️ [Download Images and Segmentations](https://your-image-and-maps-link.com)
+➡️ [Download Images and Segmentations](https://tuprd-my.sharepoint.com/:u:/g/personal/tul03156_temple_edu/EbqB3f6-AWNItgBWYy9akM0BqlHGn-g36Pim6G6zf6bE5w?e=U2Mz8S)
 
 <div align="center">
   <img width="240" src="https://github.com/user-attachments/assets/5bbb409c-4e07-4dba-9fab-23993d97fa84" />
